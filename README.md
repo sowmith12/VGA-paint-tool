@@ -115,7 +115,7 @@ This is a snapshot of the screen when the paint tool is running. The user can mo
 
 ## 🤝 Credits
 
-Developed by: [Your Name]  
+Developed by: Sowmith :)  
 Built using Verilog and the Nexys A7 FPGA Board with a focus on learning digital design, VGA interfacing, and interactive applications.
 
 ---
